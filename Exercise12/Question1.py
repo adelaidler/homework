@@ -1,6 +1,6 @@
 
 cheese = ["Cheddar", "Stilton", "Cornish Yarg"]
-#add "Oke" to the list
+#add "Oke" to the list (needs [])
 cheese += ["Oke"]
 print(cheese)
 
