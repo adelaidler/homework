@@ -4,6 +4,7 @@
 import random
 from enum import IntEnum
 
+#convert names to values
 class Action(IntEnum):
     Rock, Paper, Scissors = 0, 1, 2
 

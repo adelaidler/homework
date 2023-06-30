@@ -1,6 +1,4 @@
-
 #https://realpython.com/python-rock-paper-scissors/
-
 
 import random
 #actions available to input
